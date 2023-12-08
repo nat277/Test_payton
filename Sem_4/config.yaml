@@ -1,0 +1,12 @@
+host: 0.0.0.0
+user: 'user2'
+pswd: '2222'
+file: p7zip-full
+path_user: /home/user2/
+folder_user_in: /home/user2/folder_in
+folder_user_out: /home/user2/folder_out
+folder_user_ex: /home/user2/folder_ex
+folder_in: /home/user/folder_in/
+count: 1
+bs: 1M
+type: zip
